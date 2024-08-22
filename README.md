@@ -1,4 +1,4 @@
-# Nifti 2 Dicom
+# 🚀 Nifti 2 Dicom
 Easy conversion of medical images from `NIFTI` to `DICOM` format using `SimpleITK`
 
 ## The necessary packages
